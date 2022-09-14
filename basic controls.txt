@@ -1,5 +1,0 @@
-W - jump
-A,D - side to side movement
-
-K - attack
-J - spell1 (logic all implemented, actual assets still have to be added)
